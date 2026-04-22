@@ -14,7 +14,7 @@ El dataset `everpeak_retail` incluye 2,000 órdenes de clientes con valores falt
 
 Haz clic en el siguiente botón:
 
-https://colab.research.google.com/github/MarcoCoronaOrtiz/analysis-everpeak/blob/main/S5_ladb_mobility_economy_project_student_(3).ipynb
+https://colab.research.google.com/drive/156WBedwjip-NeZAJ-uUJcKXGFhShayh_?usp=sharing
 
 O:
 
